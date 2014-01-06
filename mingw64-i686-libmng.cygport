@@ -3,7 +3,7 @@ inherit cross
 
 NAME="mingw64-i686-libmng"
 VERSION=1.0.10
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="MNG format library for Win32 toolchain"
 DESCRIPTION="libmng is a library for reading, writing, displaying and examing
